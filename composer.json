@@ -1,0 +1,24 @@
+{
+    "name": "sreeni/php-traditional-server",
+    "description": "Endpoint handler for Fine Uploader's traditional server requests.",
+    "homepage": "http://fineuploader.com",
+    "support": {
+        "issues": "https://github.com/sreeni/php-traditional-server/issues",
+        "source": "https://github.com/sreeni/php-traditional-server"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sreeni/php-traditional-server"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FineUploader\\": "src"
+        }
+    }
+}
