@@ -1,15 +1,15 @@
 {
-    "name": "sreeni/php-traditional-server",
+    "name": "sreeni90/php-traditional-server",
     "description": "Endpoint handler for Fine Uploader's traditional server requests.",
     "homepage": "http://fineuploader.com",
     "support": {
-        "issues": "https://github.com/sreeni/php-traditional-server/issues",
-        "source": "https://github.com/sreeni/php-traditional-server"
+        "issues": "https://github.com/sreeni90/php-traditional-server/issues",
+        "source": "https://github.com/sreeni90/php-traditional-server"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/sreeni/php-traditional-server"
+            "url": "https://github.com/sreeni90/php-traditional-server"
         }
     ],
     "license": "MIT",
